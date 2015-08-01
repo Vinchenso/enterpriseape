@@ -154,7 +154,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  bootstrap-sass (~> 3.3.5)
+  bootstrap-sass
   byebug
   coffee-rails (~> 4.1.0)
   jbuilder (~> 2.0)
@@ -162,7 +162,7 @@ DEPENDENCIES
   pg
   rails (= 4.2.3)
   rails_12factor
-  sass-rails (>= 3.2)
+  sass-rails
   sdoc (~> 0.4.0)
   spring
   sqlite3
