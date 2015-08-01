@@ -15,8 +15,6 @@ group :development do
   gem 'sqlite3'
 end
 
-# Use SCSS for stylesheets
-gem 'sass-rails', '~> 5.0'
 # Use Uglifier as compressor for JavaScript assets
 gem 'uglifier', '>= 1.3.0'
 # Use CoffeeScript for .coffee assets and views
@@ -54,6 +52,7 @@ gem 'web-console', '~> 2.0'
   gem 'spring'
   
 gem 'bootstrap-sass', '~> 3.3.5'
+#gem 'sass-rails', '>= 3.2'
  
 end
 
